@@ -45,3 +45,7 @@ td input {
     text-align: center;
     background: yellow;
 }
+td:hover{background-color: pink;
+  color:white;
+
+}
